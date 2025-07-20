@@ -30,9 +30,10 @@ git clone https://github.com/AhmedShehata100/LAMP-stack-using-Docker-Compose.git
 cd LAMP-stack-using-Docker-Compose
 docker-compose up
 
+Then open your browser at: http://localhost:8080
 
 
-##  Then open your browser at: http://localhost:8080
+
 
 ## 🧠 What I Learned
 Basic Docker Compose syntax
@@ -50,6 +51,5 @@ Use .env file for environment variables
 
 Build a real PHP app on top of it
 
-## 📬 Feedback
+📬 Feedback
 If you have any suggestions or tips, feel free to open an issue or connect with me on LinkedIn! https://www.linkedin.com/in/ahmed-shehata10/
-
